@@ -1,5 +1,9 @@
 # README #
 
+## Copy of the original project ##
+from https://bitbucket.org/erkokaar/datascience-project-gender-statistics-analysis/src/main/ [[private]]
+
+
 This is our project about Gender Equality and its development specifically in the fields of career and busineess.
 
 Authors: Timo Kaasik, Sofia Kriuchkova, Erko Käär
